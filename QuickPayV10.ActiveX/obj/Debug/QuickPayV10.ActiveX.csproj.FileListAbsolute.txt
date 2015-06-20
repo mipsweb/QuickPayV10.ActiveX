@@ -1,0 +1,4 @@
+c:\users\michael\documents\visual studio 2013\Projects\QuickPayV10.ActiveX\QuickPayV10.ActiveX\bin\Debug\QuickPayV10.ActiveX.dll
+c:\users\michael\documents\visual studio 2013\Projects\QuickPayV10.ActiveX\QuickPayV10.ActiveX\bin\Debug\QuickPayV10.ActiveX.pdb
+c:\users\michael\documents\visual studio 2013\Projects\QuickPayV10.ActiveX\QuickPayV10.ActiveX\obj\Debug\QuickPayV10.ActiveX.dll
+c:\users\michael\documents\visual studio 2013\Projects\QuickPayV10.ActiveX\QuickPayV10.ActiveX\obj\Debug\QuickPayV10.ActiveX.pdb
